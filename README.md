@@ -1,3 +1,4 @@
-# odoo8.0
+openerp-install-scripts
+=======================
 
-dsfsdfdsfds
+OpenERP Install Scripts
