@@ -6,7 +6,7 @@ Baixar o script
 > sudo git clone https://github.com/bilibidum/odoo8.0.git
 
 Entrar no diretório
-> cd Odoo8.0
+> cd odoo8.0
 
 Dar permissão para execução
 > sudo chmod +x odoo_install.sh
