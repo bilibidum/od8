@@ -2,17 +2,12 @@
 ################################################################################
 # Script for Installation: ODOO Saas4/Trunk server on Ubuntu 14.04 LTS
 # Author: André Schenkels, ICTSTUDIO 2014
+# Edited by: Rafael Bilibidum
 #-------------------------------------------------------------------------------
 #  
 # This script will install ODOO Server on
 # clean Ubuntu 14.04 Server
 #-------------------------------------------------------------------------------
-# USAGE:
-#
-# odoo-install
-#
-# EXAMPLE:
-# ./odoo-install 
 #
 ################################################################################
  
@@ -36,10 +31,9 @@ echo -e "\n---- Update Server ----"
 sudo apt-get update
 sudo apt-get upgrade -y
 sudo apt-get install -y locales
-export LANGUAGE=en_US.UTF-8
-export LANG=en_US.UTF-8
-export LC_ALL=en_US.UTF-8
-sudo locale-gen en_US.UTF-8
+export LANGUAGE=pt_BR.UTF-8
+export LANG=pt_BR.UTF-8
+sudo locale-gen pt_BR pt_BR.UTF-8
 sudo dpkg-reconfigure locales
 
 #--------------------------------------------------
