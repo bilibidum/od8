@@ -1,12 +1,12 @@
-# Odoo 8
-Instalação do Odoo 8.0 no Ubuntu 14.04
+# Od8
+Instalação do Od8.0 no Ubuntu 14.04
 
 
 Baixar o script
-> sudo git clone https://github.com/bilibidum/odoo8.0.git
+> sudo git clone https://github.com/bilibidum/od8.git
 
 Entrar no diretório
-> cd odoo8.0
+> cd od8
 
 Dar permissão para execução
 > sudo chmod +x odoo_install.sh
