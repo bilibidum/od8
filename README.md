@@ -11,7 +11,7 @@ Instalação do Od8.0 no Ubuntu 14.04
 #### Baixar o script
 > sudo git clone https://github.com/bilibidum/od8.git
 
-Entrar no diretório
+#### Entrar no diretório
 > cd od8
 
 #### Dar permissão para execução
