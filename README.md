@@ -5,7 +5,7 @@ Instalação do Od8.0 no Ubuntu 14.04
 
 > sudo apt-get update
 
-> sudo apt-get install git
+> sudo apt-get install -y git
 
 
 #### Baixar o script
